@@ -6,6 +6,10 @@ This project is an E-Commerce Product Recommendation System that recommends prod
 
 The system uses collaborative filtering and cosine similarity to identify products that users may prefer.
 
+## 🚀 Live Demo
+
+[Click here to open the live app](https://ruchithae-e-commerce-product-recommendation-app-jle9tn.streamlit.app/)
+
 ## 🎯 Objectives
 
 - Recommend relevant products to users
