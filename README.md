@@ -9,7 +9,7 @@ The system uses collaborative filtering and cosine similarity to identify produc
 ## 🚀 Live Demo
 
 [Click here to open the live app]
-(https://ruchithae-e-commerce-product-recommendation-app-jle9tn.streamlit.app/)
+https://ruchithae-e-commerce-product-recommendation-app-lje9tn.streamlit.app/
 
 ## 🎯 Objectives
 
